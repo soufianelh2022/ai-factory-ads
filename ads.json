@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-25T23:40:11",
+  "updated_at": "2026-03-26T00:11:13",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -19,6 +19,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-25T23:40:11",
+      "live": false
+    },
+    "com.maatrackers.pregnancyweight": {
+      "app_name": "Maa Tracker",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-26T00:11:13",
       "live": false
     }
   }
