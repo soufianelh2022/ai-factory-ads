@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-26T23:55:55",
+  "updated_at": "2026-03-27T00:27:49",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -100,6 +100,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-26T23:55:55",
+      "live": false
+    },
+    "com.handwerkertools.planerapp": {
+      "app_name": "HandwerkerPlaner Pro",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-27T00:27:49",
       "live": false
     }
   }
