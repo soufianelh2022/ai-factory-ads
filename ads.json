@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T16:07:22",
+  "updated_at": "2026-03-27T18:20:03",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -118,6 +118,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-27T16:07:22",
+      "live": false
+    },
+    "com.zafafapps.organizer": {
+      "app_name": "Zafaf Organizer",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-27T18:20:03",
       "live": false
     }
   }
