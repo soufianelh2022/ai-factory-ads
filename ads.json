@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T18:43:38",
+  "updated_at": "2026-03-27T19:23:08",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -136,6 +136,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-27T18:43:38",
+      "live": false
+    },
+    "com.workfocus.dailytasks": {
+      "app_name": "WorkFocus - Daily Task Planner",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-27T19:23:08",
       "live": false
     }
   }
