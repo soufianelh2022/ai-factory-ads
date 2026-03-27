@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-27T19:23:08",
+  "updated_at": "2026-03-27T19:56:17",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -145,6 +145,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-27T19:23:08",
+      "live": false
+    },
+    "com.desikitchen.checklist": {
+      "app_name": "Desi Kitchen Checklist",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-27T19:56:17",
       "live": false
     }
   }
