@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-28T13:02:19",
+  "updated_at": "2026-03-29T00:19:38",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -208,6 +208,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-28T13:02:19",
+      "live": false
+    },
+    "com.factory.goldentodo": {
+      "app_name": "Golden Todo",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-29T00:19:38",
       "live": false
     }
   }
