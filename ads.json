@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-30T00:22:20",
+  "updated_at": "2026-03-30T00:38:59",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -262,6 +262,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-03-30T00:22:20",
+      "live": false
+    },
+    "com.pixelcraft.wallpaperstudio": {
+      "app_name": "PixelCraft Studio",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-03-30T00:38:59",
       "live": false
     }
   }
