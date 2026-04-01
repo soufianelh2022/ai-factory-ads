@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-01T21:12:58",
+  "updated_at": "2026-04-01T21:40:37",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -343,6 +343,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-04-01T19:16:33",
+      "live": false
+    },
+    "com.aifactory.dailychecklist": {
+      "app_name": "Checklist Daily Tasks",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-04-01T21:40:37",
       "live": false
     }
   }
