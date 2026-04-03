@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-03T19:26:47",
+  "updated_at": "2026-04-03T21:58:13",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -361,6 +361,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-04-03T19:26:47",
+      "live": false
+    },
+    "com.aifactory.comarabickeyboardarabi": {
+      "app_name": "FEATURE PARITY CLONE: Implement the same core user-visible c",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-04-03T21:58:13",
       "live": false
     }
   }
