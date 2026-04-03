@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-02T23:39:09",
+  "updated_at": "2026-04-03T19:26:47",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -352,6 +352,15 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
       "enabled": true,
       "added_at": "2026-04-01T21:40:37",
+      "live": false
+    },
+    "com.aifactory.calculatorutilityapp": {
+      "app_name": "Stable local calculator utility with history.",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "enabled": true,
+      "added_at": "2026-04-03T19:26:47",
       "live": false
     }
   }
