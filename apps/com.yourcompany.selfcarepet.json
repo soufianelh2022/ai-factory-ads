@@ -6,7 +6,7 @@
   "enabled": true,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "source": "env_or_existing",
-  "updated_at": "2026-06-23T20:58:01+00:00",
+  "updated_at": "2026-06-23T21:09:55+00:00",
   "app_open_id": "ca-app-pub-3940256099942544/9257395921",
   "app_open_enabled": true,
   "banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -40,13 +40,6 @@
     "rewarded_id"
   ],
   "activation_policy": "demo_ready can proceed with test ads; production_ready requires real IDs before monetized release.",
-  "github_ads_repo": "soufianelh2022/ai-factory-ads",
-  "ads_config_path": "apps/com.yourcompany.selfcarepet.json",
-  "ads_config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/com.yourcompany.selfcarepet.json",
-  "ads_index_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/ads.json",
   "config_path": "apps/com.yourcompany.selfcarepet.json",
-  "config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/com.yourcompany.selfcarepet.json",
-  "index_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/ads.json",
-  "github_update_status": "demo_ready",
-  "github_updated": false
+  "config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/com.yourcompany.selfcarepet.json"
 }
