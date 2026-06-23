@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-23T21:33:14+00:00",
+  "updated_at": "2026-06-23T21:33:21+00:00",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -527,6 +527,43 @@
       "activation_policy": "demo_ready can proceed with test ads; production_ready requires real IDs before monetized release.",
       "config_path": "apps/com.example.weak.json",
       "config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/com.example.weak.json"
+    },
+    "com.example.wait": {
+      "version": 2,
+      "package_name": "com.example.wait",
+      "app_name": "test_finalizer_stops_downstrea0",
+      "mode": "demo_ready",
+      "enabled": true,
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "source": "env_or_existing",
+      "updated_at": "2026-06-23T21:33:21+00:00",
+      "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "app_open_enabled": false,
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "banner_enabled": true,
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "interstitial_enabled": false,
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "rewarded_enabled": false,
+      "native_id": "ca-app-pub-3940256099942544/2247696110",
+      "native_enabled": false,
+      "status": "demo_config_ready",
+      "required_formats": [
+        "banner"
+      ],
+      "ids_are_real": false,
+      "no_test_ids_in_production": true,
+      "publish_ready": true,
+      "demo_publish_ready": true,
+      "production_publish_ready": false,
+      "uses_demo_ads": true,
+      "real_ads_required_before_monetized_release": true,
+      "missing_real_id_keys": [
+        "banner_id"
+      ],
+      "activation_policy": "demo_ready can proceed with test ads; production_ready requires real IDs before monetized release.",
+      "config_path": "apps/com.example.wait.json",
+      "config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/com.example.wait.json"
     }
   }
 }
