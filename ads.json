@@ -371,6 +371,15 @@
       "enabled": true,
       "added_at": "2026-04-03T21:58:13",
       "live": false
+    },
+    "com.yourcompany.selfcarepet": {
+      "package_name": "com.yourcompany.selfcarepet",
+      "app_name": "TabbyFlow",
+      "config_path": "apps/com.yourcompany.selfcarepet.json",
+      "config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/com.yourcompany.selfcarepet.json",
+      "mode": "demo_ready",
+      "enabled": true,
+      "updated_at": "2026-06-23T20:58:01+00:00"
     }
   }
 }
