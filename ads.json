@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-24T19:11:43+00:00",
+  "updated_at": "2026-06-24T19:11:53+00:00",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -462,7 +462,7 @@
       "enabled": true,
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "source": "env_or_existing",
-      "updated_at": "2026-06-23T21:32:36+00:00",
+      "updated_at": "2026-06-24T19:11:53+00:00",
       "app_open_id": "ca-app-pub-3940256099942544/9257395921",
       "app_open_enabled": false,
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -478,7 +478,7 @@
         "banner"
       ],
       "ids_are_real": false,
-      "no_test_ids_in_production": false,
+      "no_test_ids_in_production": true,
       "publish_ready": true,
       "demo_publish_ready": true,
       "production_publish_ready": false,
