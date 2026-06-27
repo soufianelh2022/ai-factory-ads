@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-27T00:53:42+00:00",
+  "updated_at": "2026-06-27T01:04:45+00:00",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -1131,12 +1131,12 @@
     "com.aifactory.bearflow": {
       "version": 2,
       "package_name": "com.aifactory.bearflow",
-      "app_name": "e585ea3b",
+      "app_name": "BearFlow",
       "mode": "demo_ready",
       "enabled": true,
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "source": "env_or_existing",
-      "updated_at": "2026-06-27T00:35:13+00:00",
+      "updated_at": "2026-06-27T01:04:45+00:00",
       "app_open_id": "ca-app-pub-3940256099942544/9257395921",
       "app_open_enabled": true,
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
