@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-08T11:08:15+00:00",
+  "updated_at": "2026-07-08T11:08:22+00:00",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -914,7 +914,7 @@
       "enabled": true,
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "source": "env_or_existing",
-      "updated_at": "2026-06-27T01:31:32+00:00",
+      "updated_at": "2026-07-08T11:08:22+00:00",
       "app_open_id": "ca-app-pub-3940256099942544/9257395921",
       "app_open_enabled": false,
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
