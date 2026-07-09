@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-09T17:46:39+00:00",
+  "updated_at": "2026-07-09T18:00:25+00:00",
   "test_mode": true,
   "apps": {
     "com.factory.testapp": {
@@ -1382,24 +1382,21 @@
       "enabled": true,
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "source": "env_or_existing",
-      "updated_at": "2026-07-09T15:14:40+00:00",
+      "updated_at": "2026-07-09T18:00:25+00:00",
       "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-      "app_open_enabled": true,
+      "app_open_enabled": false,
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
       "banner_enabled": true,
       "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "interstitial_enabled": true,
+      "interstitial_enabled": false,
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-      "rewarded_enabled": true,
+      "rewarded_enabled": false,
       "native_id": "ca-app-pub-3940256099942544/2247696110",
       "native_enabled": true,
       "status": "demo_config_ready",
       "required_formats": [
-        "app_open",
         "banner",
-        "interstitial",
-        "native",
-        "rewarded"
+        "native"
       ],
       "ids_are_real": false,
       "no_test_ids_in_production": false,
@@ -1409,11 +1406,8 @@
       "uses_demo_ads": true,
       "real_ads_required_before_monetized_release": true,
       "missing_real_id_keys": [
-        "app_open_id",
         "banner_id",
-        "interstitial_id",
-        "native_id",
-        "rewarded_id"
+        "native_id"
       ],
       "activation_policy": "demo_ready can proceed with test ads; production_ready requires real IDs before monetized release.",
       "config_path": "apps/com.aifactory.stylish.json",
