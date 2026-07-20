@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "package_name": "test_publisher_blocks_declared2",
+  "app_name": "test_publisher_blocks_declared2",
+  "mode": "demo_ready",
+  "enabled": true,
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "source": "env_or_existing",
+  "updated_at": "2026-07-20T17:44:13+00:00",
+  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "app_open_enabled": false,
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "banner_enabled": false,
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "interstitial_enabled": false,
+  "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "rewarded_enabled": false,
+  "native_id": "ca-app-pub-3940256099942544/2247696110",
+  "native_enabled": true,
+  "status": "demo_config_ready",
+  "required_formats": [
+    "native"
+  ],
+  "ids_are_real": false,
+  "no_test_ids_in_production": true,
+  "publish_ready": true,
+  "demo_publish_ready": true,
+  "production_publish_ready": false,
+  "uses_demo_ads": true,
+  "real_ads_required_before_monetized_release": true,
+  "missing_real_id_keys": [
+    "native_id"
+  ],
+  "activation_policy": "demo_ready can proceed with test ads; production_ready requires real IDs before monetized release.",
+  "config_path": "apps/test_publisher_blocks_declared2.json",
+  "config_url": "https://raw.githubusercontent.com/soufianelh2022/ai-factory-ads/main/apps/test_publisher_blocks_declared2.json"
+}
